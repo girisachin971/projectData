@@ -1,7 +1,5 @@
 package com.test;
-
 import java.sql.*;
-
 
 public class JDBC_Connection {
 	
